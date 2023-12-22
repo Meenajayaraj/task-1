@@ -18,3 +18,6 @@
 
 ![ functioning of HTTP1 and HTTP2. ](https://cdn.rovity.io/wp-content/uploads/2019/02/http2-multiplexing.png )
 
+# Objects and internal representation in java script
+
+FIND THE LINK :==>(https://medium.com/@sundharaj2517/objects-and-internal-represantation-in-javascript-34d87d174256).
