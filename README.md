@@ -14,3 +14,5 @@
 | It compresses data by itself.	| It uses HPACK for data compression.
 
 + HTTP is based on the Client/Server model. Client/Server model can be explained as two computers, each with their own [IP address](https://factory.dev/blog/http2-difference-from-http1).
+
+![ functioning of HTTP1 and HTTP2. ]{https://d28hck101xajo9.cloudfront.net/asset/BlogPostContentImages/1.png }
