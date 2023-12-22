@@ -7,7 +7,7 @@
 **Hypertext transfer protocal** is used to communicate between webbrowser and server.
 ![ HTTP ](https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_1400/img/hosting/hosting-articles/http1.jpg)
 
-| HTTP1| HTTP2 |
+| `HTTP1`| `HTTP2` |
 |------ | ------ |
 | It works on the textual format. | It works on the binary protocol.|
 |There is head of line blocking that blocks all the requests behind it until it doesn’t get its all resources. | It allows multiplexing so one TCP connection is required for multiple requests. |
