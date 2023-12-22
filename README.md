@@ -4,9 +4,9 @@
 
 ## HTTP 
 
-**Hypertext transfer protocal** is used to communicate between webbrowser and server
+**Hypertext transfer protocal** is used to communicate between webbrowser and server.
 
-| HTTP1.1 | HTTP2 |
+| !HTTP1.1 | !HTTP2 |
 |------ | ------ |
 | It works on the textual format. | It works on the binary protocol.|
 |There is head of line blocking that blocks all the requests behind it until it doesn’t get its all resources. | It allows multiplexing so one TCP connection is required for multiple requests. |
