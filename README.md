@@ -5,6 +5,7 @@
 ## HTTP 
 
 **Hypertext transfer protocal** is used to communicate between webbrowser and server.
+![ HTTP ](https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_1400/img/hosting/hosting-articles/http1.jpg)
 
 | HTTP1| HTTP2 |
 |------ | ------ |
@@ -15,4 +16,5 @@
 
 + HTTP is based on the Client/Server model. Client/Server model can be explained as two computers, each with their own [IP address](https://factory.dev/blog/http2-difference-from-http1).
 
-![ functioning of HTTP1 and HTTP2. ](https://d28hck101xajo9.cloudfront.net/asset/BlogPostContentImages/1.png )
+![ functioning of HTTP1 and HTTP2. ](https://cdn.rovity.io/wp-content/uploads/2019/02/http2-multiplexing.png )
+
